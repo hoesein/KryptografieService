@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decryptor", "Decryptor\Decryptor.csproj", "{25C35F94-9C2F-4468-9B84-DC67F9BED9F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities.KryptografieService", "Utilities.KryptografieService\Utilities.KryptografieService.csproj", "{880EBDF4-8027-4764-AAD8-3994AB4346FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C35F94-9C2F-4468-9B84-DC67F9BED9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C35F94-9C2F-4468-9B84-DC67F9BED9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C35F94-9C2F-4468-9B84-DC67F9BED9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C35F94-9C2F-4468-9B84-DC67F9BED9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880EBDF4-8027-4764-AAD8-3994AB4346FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880EBDF4-8027-4764-AAD8-3994AB4346FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880EBDF4-8027-4764-AAD8-3994AB4346FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880EBDF4-8027-4764-AAD8-3994AB4346FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F924D4E0-2DCF-49D4-8CF4-BE2D857D07ED}
+	EndGlobalSection
+EndGlobal
